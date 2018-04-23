@@ -1,5 +1,5 @@
 # MenuComputronic
-<img src="https://i.imgur.com/metKc0c.png" title="MenuComputronic">
+<img src="https://i.imgur.com/M8N8xeI.jpg" title="MenuComputronic">
 
 # ACERCA DE.
 MenuComputronic, un proyecto básico para que te adentres en el mundo de la programación, desarrollando la lógica de la programación, para que pueda usted con el tiempo desarrollar plataformas robustas y bien remuneradas en el mercado laboral, por ello lo invitamos a unirse a computronic.
@@ -26,7 +26,7 @@ Preguntas, errores o sugerencias para: info@computronic.edu.pe
 
 # LICENCIA
 MenuComputronic tiene licencia.
-See [LICENSE](https://github.com/InstitutoComputronic/MenuComputronic/blob/master/LICENSE) para más información.
+Ver [LICENCIA](https://github.com/InstitutoComputronic/MenuComputronic/blob/master/LICENSE) para más información.
 
 Necesitamos socios, si está interesado en ayuda o en contacto de ayuda.
 
